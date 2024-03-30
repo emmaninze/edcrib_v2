@@ -45,8 +45,8 @@ class _SplashScreenState extends State<SplashScreen> {
               borderRadius: BorderRadius.circular(100),
               child: Container(
                 color: Colors.white,
-                height: 150,
-                width: 150,
+                height: 145,
+                width: 145,
                 child: Image.asset(
                   'images/edcrib_logo.png',
                   height: 250,
